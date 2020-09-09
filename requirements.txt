@@ -1,4 +1,8 @@
+# Required
 Flask ~= 1.1.2
 Flask-RESTful ~= 0.3.8
 dicttoxml ~= 1.7.4
 requests ~= 2.24.0
+
+# Optional, for compiling the readme file
+mistune ~= 2.0.0a4
